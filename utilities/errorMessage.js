@@ -1,0 +1,1 @@
+export const location_error="location not found or check spelling of the location";
